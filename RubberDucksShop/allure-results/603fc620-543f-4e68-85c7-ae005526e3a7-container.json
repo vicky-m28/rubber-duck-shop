@@ -1,0 +1,1 @@
+{"uuid":"603fc620-543f-4e68-85c7-ae005526e3a7","name":"selenium.tests.TestBase.quit","children":["a0649851-7bbf-4607-8bf1-12e8f2790ea5"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1691856680812,"stop":1691856680933}],"start":1691856680812,"stop":1691856680933}
